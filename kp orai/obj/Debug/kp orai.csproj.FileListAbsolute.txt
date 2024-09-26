@@ -1,0 +1,15 @@
+C:\Users\tanulo\Desktop\kp orai\kp orai\bin\Debug\kp orai.exe.config
+C:\Users\tanulo\Desktop\kp orai\kp orai\bin\Debug\kp orai.exe
+C:\Users\tanulo\Desktop\kp orai\kp orai\bin\Debug\kp orai.pdb
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai.csprojAssemblyReference.cache
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\MainWindow.g.cs
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\App.g.cs
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai_MarkupCompile.cache
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai_MarkupCompile.lref
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\MainWindow.baml
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai.g.resources
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp_orai.Properties.Resources.resources
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai.csproj.GenerateResource.cache
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai.exe
+C:\Users\tanulo\Desktop\kp orai\kp orai\obj\Debug\kp orai.pdb
